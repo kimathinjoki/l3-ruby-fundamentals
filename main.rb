@@ -9,12 +9,20 @@
 
 # 2.0 Strings
 # TODO: CREATE A STRING
-
+str ='A string'
 # TODO: CREATE A STRING WITH SINGLE QUOTES
-
+first_name ='Jane'
 # TODO: INTERPOLATE STRINGS
-
+full_name = "first name is #{first_name}. last name is nani"
 # TODO: String methods (upcase, downcase, capitalize)
+
+string_uppercase = str.upcase
+
+
+upcased= "HELLO WORDLD"
+upcased.downcase
+
+puts full_name.capitalize
 
 # 3.0 Numbers
 # TODO: Integers
